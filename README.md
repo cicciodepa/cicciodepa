@@ -25,10 +25,6 @@ Here are some of the projects I've worked on or am currently working on:
 
 > You can find more projects in the [Repositories section](https://github.com/cicciodepa) of my profile.
 
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
-
 ## 💬 Let's Connect
 
 - 🌐 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/mario-francesco-de-pascale/)

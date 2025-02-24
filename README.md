@@ -1,5 +1,5 @@
 
-# Hello, that's ciccio! 👋
+# Hello, it's ciccio here! 👋
 
 Hello! I'm a passionate **Computer Engineering** student at **Politecnico di Torino**, specializing in **Artificial Intelligence** and **Computer Vision**. I enjoy working on innovative projects that combine the power of AI with real-world applications, especially with limited resources!
 

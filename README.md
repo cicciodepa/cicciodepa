@@ -7,12 +7,12 @@ Hello! I'm a passionate **Computer Engineering** student at **Politecnico di Tor
 
 - 👨‍💻 **Field of Study**: Computer Engineering, specializing in Artificial Intelligence and Computer Vision.
 - 🎓 **Current University**: Politecnico di Torino
-- 🌱 **Currently learning**: Deep learning models, advanced computer vision techniques, and AI-driven applications.
+- 🌱 **Currently learning**: Deep learning models, advanced computer vision techniques, and AI-driven applications, alongside with C++.
 - 🔭 **Current Work**: I am currently working on my thesis about Video Anomaly Detection in constrained resource devices.
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: Python, JavaScript, Rust, Java
+- **Programming Languages**: Python, JavaScript, Rust, Java/Kotlin
 - **Frameworks & Libraries**: PyTorch, TensorFlow, numpy, scikit-learn
 - **Tools**: Git, Jupyter, Visual Studio Code, Docker
 - **Databases**: Whatever is needed 🤯

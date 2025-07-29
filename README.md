@@ -23,7 +23,7 @@ Hello! I'm a passionate **Computer Engineering**, specialized in **Artificial In
 Here are some of the projects I've worked on or am currently working on:
 - **[Spring Boot Ticketing Management System]**: see the proper [repo](https://github.com/cicciodepa/TMS).
 - **[Keyword spotting with CNNs for Raspberry Pi 2W]**: see the proper [repo](https://github.com/cicciodepa/kws-pi).
-- **[Tamagotchi Emulation Project]**: see the proper [repo](https://github.com/cicciodepa/tamagotchi-landtiger-lpc1768).
+- **[Tamagotchi Emulation Project]**: see the proper [repo](https://github.com/cicciodepa/tamagotchi-landtiger-lpc1768). ![c](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
 
 > You can find more projects in the [Repositories section](https://github.com/cicciodepa) of my profile.
 

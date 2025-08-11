@@ -6,8 +6,8 @@ Hello! I'm a passionate **Computer Engineering**, specialized in **Artificial In
 ## 🚀 About Me
 
 - 👨‍💻 **Field of Study**: Computer Engineering, Software Engineering, Artificial Intelligence and Computer Vision.
-- 🎓 **University**: M.S. at Politecnico di Torino
-- 🔭 **Latest Work**: Video Anomaly Detection (deep learning based) in constrained resource devices, obtained up to 20x faster inference speed compared to other methodologies in literature.
+- 🎓 **University**: M.Sc. at Politecnico di Torino
+- 🔭 **Latest Work**: Video Anomaly Detection (deep learning based) in resource-constrained devices, obtained up to 20x faster inference speed compared to other methodologies in literature.
 - 🌱 **Currently learning**: **C++**, advanced Computer Vision topics.
 - 📖 **Currently reading**: Fluent Python, by Luciano Ramalho.
 
